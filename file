@@ -1,2 +1,7 @@
 file1
+<<<<<<< HEAD
 hi this is commited in main branch
+
+
+this is devops lab external examination
+>>>>>>> feature
